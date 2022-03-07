@@ -1,0 +1,52 @@
+#grid {
+    display: grid;
+    grid-template-columns:1fr ;
+    grid-template-rows: 20vh 1fr 20vh;
+    grid-template-areas: 
+    "header"
+    "main"
+    "footer";
+}
+.header {
+    grid-area: header;
+}
+.main {
+    grid-area: main;
+}
+.footer {
+    grid-area: footer;
+}
+
+
+/* .......... subGrid ................ */
+
+#subGrid {
+    display: grid;
+    grid-template-columns: repeat(6, 1fr);
+    grid-template-rows: repeat(6, 1fr);
+    grid-template-areas: 
+    ".     books     books     books     books     ."
+    ".     books     books     books     books     ."
+    ".     books     books     books     books     ."
+    "events     events    events    events    events    events"
+    ".     about     about     about     about     ."
+    ".     ubication ubication ubication ubication ."
+    ;
+}
+
+.books {
+    grid-area: books;
+}
+.events {
+    grid-area: events;
+}
+.about {
+    grid-area: about;
+}
+.ubication {
+    grid-area: ubication;
+}
+/* 
+.border {
+    border: thin solid black;
+} */

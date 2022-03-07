@@ -1,0 +1,51 @@
+
+:root {
+    --white-color: #fff;
+    --black-color: #000;
+    --fist-color: #ff4f61;
+    --second-color: #ffcb3a;
+    --third-color: #511d47;
+    --fourth-color: #343b3c;
+    --fifth-color: #1e2425;
+    --font: "Raleway", sans-serif;
+    --max-width: 1200px;
+    --header-height: 4rem;
+  }
+
+html {
+  box-sizing: border-box;
+  font-family: var(--font);
+  font-size: 16px;
+}
+
+*,
+*::after,
+*::before {
+  box-sizing: inherit;
+}
+
+body {
+  margin: 0;
+  /* overflow-x: hidden; */
+  /* color: #222; */
+}
+
+a {
+  color: var(--second-color);
+  transition: all 0.5 ease-out;
+}
+
+a:hover {
+  opacity: 0.75;
+}
+
+h1 {
+  margin: 0;
+}
+h2 {
+  margin: 0;
+}
+
+h3 {
+  margin: 0;
+}

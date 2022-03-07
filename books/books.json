@@ -1,0 +1,110 @@
+[{
+    "nombre": "harry potter y las reliquias de la muerte",
+    "autor": "j.k. rowling",
+    "sinopsis": "La fecha se acerca. Cuando cumpla diecisiete años, Harry perderá el encantamiento protector que lo mantiene a salvo. El anunciado duelo a muerte con lord Voldemort es inminente, y la casi imposible misión de encontrar y destruir los restantes Horrocruxes, más urgente que nunca",
+    "precio": 2300,
+    "id": 1,
+    "ventas": 190,
+    "img": "assets/img/Harry_Potter_y_las_Reliquias_de_la_Muerte_portada_español.jpg",
+    "tag": "fantasía",
+    "cantidad": 1
+  },
+  {
+    "nombre": "la ladrona de libros",
+    "autor": "markus zusak",
+    "sinopsis": "La ladrona de libros, novela narrada desde el punto de vista de la Muerte, nos presenta a Liesel Meminger, una niña de nueve años que se va a vivir con una familia adoptiva, compuesta por dos miembros, Hans y Rosa Hubermann, en un pueblo cercano a Múnich (Molching), en la Alemania anterior a la Segunda Guerra Mundial",
+    "precio": 3100,
+    "id": 2,
+    "ventas": 120,
+    "img": "assets/img/ladronaDeLibros.jpg",
+    "tag": "drama",
+    "cantidad": 1
+},
+{
+    "nombre": "amigo imaginario",
+    "autor": "stephen chbosky",
+    "sinopsis": "Kate Reese es una madre soltera que escapa de una relación de abuso para empezar desde cero en el pueblo Mill Grove, junto a su hijo de siete años, Christopher. ... Seis días después de su desaparición, Christopher aparece, sin un rasguño, pero no es el mismo.",
+    "precio": 2300,
+    "id": 3,
+    "ventas": 210,
+    "img": "assets/img/imaginario.jpg",
+    "tag": "terror",
+    "cantidad": 1
+},
+{
+    "nombre": "dracula",
+    "autor": "bram stoker",
+    "sinopsis": "En 1890, el abogado Jonathan Harker (Keanu Reeves) tiene que viajar a Transilvania, al este de Europa, para solucionar con un tal conde Drácula (Gary Oldman) unos aspectos del contrato de la casa que acababa de adquirir en Londres. El Conde no es el tipo de hombre que el joven Harker esperaba conocer.",
+    "precio": 3200,
+    "id": 4,
+    "ventas": 80,
+    "img": "assets/img/dracula.jpg",
+    "tag": "terror",
+    "cantidad": 1
+},
+{
+    "nombre": "harry potter y el prisionero de azkaban",
+    "autor": "j.k. rowling",
+    "sinopsis": "En su tercer año en Hogwarts, Harry, Ron y Hermione conocen a Sirius Black, el prisionero que ha escapado de Azkaban y aprenden a acercarse a un Hippogriffo mitad caballo/ mitad águila, a como transformar a los cambiantes Boggarts y el arte de la Adivinación. Harry deberá enfrentárse a los Dementores que son ladrones de almas, defenderse del peligroso hombre lobo y lidiar con la verdad acerca de la relación entre Sirius Black y sus padres.",
+    "precio": 2300,
+    "id": 5,
+    "ventas": 170,
+    "img": "assets/img/Harry_Potter_y_el_prisionero_de_Azkaban_Portada_Español.PNG.png",
+    "tag": "fantasía",
+    "cantidad": 1
+},
+{
+    "nombre": "it",
+    "autor": "stephen king",
+    "sinopsis": "En el misterioso pueblo de Derry, un malvado payaso llamado Pennywise vuelve 27 años después para atormentar a los ya adultos miembros del Club de los Perdedores, que ahora están más alejados unos de otros.",
+    "precio": 3150,
+    "id": 6,
+    "ventas": 240,
+    "img": "assets/img/it.jpg",
+    "tag": "terror",
+    "cantidad": 1
+},
+{
+    "nombre": "20 mil leguas de viaje submarino",
+    "autor": "julio verne",
+    "sinopsis": "Veinte mil leguas de viaje submarino es una obra narrada en primera persona por el profesor francés Pierre Aronnax, notablebiólogo que es hecho prisionero por el Capitán Nemo y es conducido por los océanos a bordo del submarino Nautilus, en compañía de su criado Conseil y el arponero canadiense Ned Land.",
+    "precio": 2150,
+    "id": 7,
+    "ventas": 70,
+    "img": "assets/img/portada-veinte-mil-leguas-de-viaje-submarino.jpg",
+    "tag": "fantasía",
+    "cantidad": 1
+},
+{
+    "nombre": "harry potter y la piedra filosofal",
+    "autor": "j.k. rowling",
+    "sinopsis": "Cuando Harry Potter cumple 11 años se entera que es huérfano, hijo de dos magos y que posee poderes mágicos. En la Escuela de Magia y Brujería de Hogwarts aprende a jugar el deporte de alturas, Quidditch y juega un emocionante juego de ajedrez, en vías a encarar al Mago Oscuro que está empeñado en destruirlo",
+    "precio": 2500,
+    "id": 8,
+    "ventas": 280,
+    "img": "assets/img/descarga.jfif",
+    "tag": "fantasía",
+    "cantidad": 1
+},
+{
+    "nombre": "el código Da Vinci",
+    "autor": "dan brown",
+    "sinopsis": "La mayor conspiración de los últimos 2000 años está a punto de ser desvelada. Robert Langdon recibe una llamada en mitad de la noche: el conservador del museo del Louvre ha sido asesinado en extrañas circunstancias y junto a su cadáver ha aparecido un desconcertante mensaje cifrado",
+    "precio": 1890,
+    "id": 9,
+    "ventas": 120,
+    "img": "assets/img/davinci.jpg",
+    "tag": "poicial",
+    "cantidad": 1
+},
+{
+    "nombre": "el instituto",
+    "autor": "stephen king",
+    "sinopsis": "En mitad de la noche en un barrio tranquilo de Minneapolis raptan a Luke Ellis, de doce años, tras haber asesinado a sus padres. Una operación que dura menos de dos minutos. Luke se despierta en la siniestra institución conocida como el Instituto, en un cuarto que se asemeja al suyo pero sin ventanas.",
+    "precio": 3500,
+    "id": 10,
+    "ventas": 270,
+    "img": "assets/img/insituto.jfif",
+    "tag": "terror",
+    "cantidad": 1
+}]
