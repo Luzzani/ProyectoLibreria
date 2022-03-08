@@ -1,2 +1,2 @@
 # ProyectoLibreria 
-Este proyecto que está en proceso, es una libreria ficticia. Aqui demuestro mis conocimientos en HTML, CSS y JavaScript, también uso la libreria toastify.
+Este proyecto está en proceso, es una libreria ficticia, donde aplico html y css para dar estilo y javascipt puro para la programación de eventos, consumo la api nacional de geolocalización para simular un envio. 
